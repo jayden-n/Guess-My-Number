@@ -15,7 +15,11 @@ document.querySelector(".check").addEventListener("click", function () {
   console.log(guess, typeof guess);
 
   if (!guess) {
-    document.querySelector(".message").textContent = "No number! 😅";
+    document.querySelector(".message").textContent = "No number!";
   }
 });
 console.log(Testing);
+console.log(Testing 2);
+console.log(Testing 3);
+console.log(Testing 4);
+console.log(Testing 5);
