@@ -18,8 +18,4 @@ document.querySelector(".check").addEventListener("click", function () {
     document.querySelector(".message").textContent = "No number!";
   }
 });
-console.log(Testing);
-console.log(Testing 2);
-console.log(Testing 3);
-console.log(Testing 4);
-console.log(Testing 55);
+console.log("testing number finally");
